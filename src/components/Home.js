@@ -2,7 +2,7 @@ import Banner from './HomeElements/Banner'
 
 const Home = () => {
     return <div>
-        Home Banner test123
+        Home Banner
         <Banner />
     </div>
 }
